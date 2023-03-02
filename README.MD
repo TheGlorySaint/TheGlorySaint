@@ -4,7 +4,7 @@
 
 ## I'm a Engaged, Developer, and PokerPlayer!!!
 
-- I work at [<img alt="www.vintrica.com" width="120px" src="https://www.vintrica.com/de/"/>][vintrica] as Flutter/Dart Developer
+- I work at [<img alt="www.vintrica.com" width="120px" src="https://ik.imagekit.io/vintrica/tr:f-auto/logo-white.png"/>][vintrica] as Flutter/Dart Developer
 
 - I Collaborate at [Day_Night_Time_Picker](https://github.com/subhamayd2/day_night_time_picker)
 - and Contribute at [Date_Field](https://github.com/GaspardMerten/date_field)
