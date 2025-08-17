@@ -1,8 +1,6 @@
 ### Hi there, I'm Lukas – aka **TheGlorySaint** 👋  
 Flutter/Dart Enthusiast • Full-Stack Dev • Volunteer EMT • Poker Strategist ♠️ • Dart-Player
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Tempel_Ritter?label=Follow%20me&style=social)](https://twitter.com/Tempel_Ritter)
-
 ---
 
 ## 💼 Professional Experience
@@ -99,5 +97,3 @@ Certified Pool Operations Specialist (Fachangestellter für Bäderbetriebe)
 ![TheGlorySaint GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGlorySaint&count_private=true&show_icons=true)
 
 ---
-
-[ippen]: https://www.ippen-digital.de/
