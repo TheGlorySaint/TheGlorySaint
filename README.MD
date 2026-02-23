@@ -1,99 +1,93 @@
-### Hi there, I'm Lukas – aka **TheGlorySaint** 👋  
-Flutter/Dart Enthusiast • Full-Stack Dev • Volunteer EMT • Poker Strategist ♠️ • Dart-Player
+# Lukas König – TheGlorySaint
 
----
+Flutter/Dart Enthusiast • Full-Stack Developer • Emergency Medical Responder • Deputy Unit Leader (Emergency Response Unit)
 
-## 💼 Professional Experience
+## About Me
 
-**👨‍💻 Flutter Developer @ Ippen Digital GmbH (since 06/2023)**  
-- Developing and maintaining core app platform features  
-- UI/UX design and implementation  
-- Bug fixing and QA  
-- Cross-team coordination with BI, Data & AI  
-- Project management using Git, GitHub, ClickUp, Figma, Jira & Confluence  
-- Play Store and App Store management  
+With over five years of experience as a Flutter developer and a broad tech stack (Flutter, Dart, JavaScript, TypeScript, Python, FastAPI), I deliver high-quality, user-centered mobile applications. My expertise in CI/CD, project management, and team coordination, combined with my passion for open-source projects, makes me a strong fit for innovative software development initiatives. My volunteer work as an emergency medical responder and deputy unit leader of the Central Emergency Response Unit in Ludwigsburg district demonstrates my ability to take responsibility and communicate effectively in critical situations.
 
-**👨‍💻 Flutter Developer @ barely digital GmbH (01/2023 – 05/2023)**  
-- Solo feature development & UI design  
-- Collaboration with backend team  
-- Writing unit tests, analyzing Crashlytics & tracking user interactions  
-- CI/CD setup using Codemagic  
-- Managed app releases on Play Store & App Store  
+## Professional Experience
 
-**👨‍💻 Flutter Developer @ eCovery GmbH (12/2020 – 12/2022)**  
-- Feature development & sensor-based Flutter app development  
-- Close coordination with backend team  
-- Quality assurance and testing  
-- CI/CD setup and release management  
-- Full project management workflow with GitHub, Figma, Jira, Confluence  
+### Since 11/2025 — Deichmann SE  
+**Senior Flutter Developer**
 
----
+- Conceptualization and further development of a multi-tenant Flutter app platform for multiple international retail brands
+- Architecture and maintenance of a scalable white-label codebase with clear separation of core logic and brand-specific extensions
+- Implementation of dynamic brand configurations (themes, assets, feature toggles) to support different corporate brands
+- Implementation of multi-language strategies and country-specific configurations (currencies, market requirements, feature control)
+- Performance optimization through targeted analysis of rendering processes, reduction of unnecessary rebuilds, and optimization of initialization logic
+- Close technical collaboration with backend, product, and QA teams to define stable API interfaces
+- Mentoring junior developers and conducting structured code reviews
+- Definition and evolution of coding guidelines and architecture principles
+- Contribution to CI/CD processes and release strategies for international rollouts
+- Ensuring stable deployments in Google Play Store and Apple App Store
+- Supported brands include: Ochsner Sport, Ochsner Shoes, vanHaren, Dosenbach
 
-## 🎓 Education
+### Since 06/2023 — Ippen Digital GmbH  
+**Flutter Developer**
 
-**Vocational Training @ Stadtwerke Ludwigsburg-Kornwestheim (2014 – 2017)**  
-Certified Pool Operations Specialist (Fachangestellter für Bäderbetriebe)
+- Development and maintenance of core features for mobile apps
+- UI/UX design for an optimal user experience
+- Coordination with BI, data, and AI teams
+- Project management with Git, GitHub, ClickUp, Figma, Jira, and Confluence
+- App Store release management
 
----
+### 01/2023 – 05/2023 — barely digital GmbH  
+**Flutter Developer**
 
-## ❤️ Volunteering
+- Independent development of features and UI designs
+- Collaboration with backend teams for seamless integration
+- Unit testing, Crashlytics analysis, and user tracking
+- CI/CD implementation with Codemagic
 
-**🚑 DRK Bietigheim-Bissingen**  
-- Chief Team Leader  (since 03/2025)
-- Advanced Emergency Medical Responder  (since 06/2024)  
-- Team Leader (since 06/2022)  
-- EMT / Medic (since 12/2018)
+### 12/2020 – 12/2022 — eCovery GmbH  
+**Flutter Developer**
 
-**🌊 DLRG Bietigheim-Bissingen**  
-- Trip Coordinator & Board Member (since 12/2021)  
-- Youth Chair (2017–2021)  
-- Secretary (2014–2017)
+- Development of sensor-based Flutter apps
+- Quality assurance and testing
+- CI/CD and release management
+- Project management with GitHub, Figma, Jira, and Confluence
 
----
+## Projects
 
-## 🚀 Projects
+### Open Source
 
-**Open Source**  
-- [`day_night_time_picker`](https://github.com/subhamayd2/day_night_time_picker) – Time picker for Flutter with a smooth UI  
-- [`date_field`](https://github.com/GaspardMerten/date_field) – Date input field widget for Flutter
-- [`flutter_useragent`](https://github.com/TheGlorySaint/user_agent) – Retrieve Useragent from Device
+- [flutter_ua](https://github.com/TheGlorySaint/user_agent) – User agent retrieval for devices
+- [day_night_time_picker](https://github.com/subhamayd2/day_night_time_picker) – Elegant time picker for Flutter
+- [date_field](https://github.com/GaspardMerten/date_field) – Date input field for Flutter
 
-**Private Projects**  
-- **Kältebus App (DRK Stuttgart)**  
-  → Flutter app + Supabase backend  
-- **Sanitätsdienst-Verwaltung (Medical Service Management)**  
-  → Flutter app + FastAPI backend
+### Private Projects
 
----
+- **Kältebus App (DRK Stuttgart)** – Flutter app with Supabase backend
+- **Medical Service Management** – Flutter app with FastAPI backend
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
-<img align="left" alt="FastAPI" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" />
+Flutter, Dart, JavaScript, TypeScript, Python, FastAPI, Node.js, MongoDB, Git, GitHub, VS Code
 
-<br />
-<br />
-<br />
+## Education & Volunteering
 
----
+### Education
 
-## 🌐 Languages
+Certified Specialist for Public Swimming Pool Operations  
+Stadtwerke Ludwigsburg-Kornwestheim (2014–2017)
 
-- 🇩🇪 German – Native  
-- 🇬🇧 English – Fluent (spoken and written)  
-- 🇪🇸 Spanish – Basic knowledge  
+### Volunteering
 
----
+**DRK Bietigheim-Bissingen**  
+Deputy Unit Leader, Central Emergency Response Unit (since 06/2025)  
+Unit Leader (since 03/2025)  
+Emergency Medical Responder (since 06/2024)  
+Group Leader (since 06/2022)  
+Medical First Responder (since 12/2018)
 
-## 📊 GitHub Stats
+**DLRG Bietigheim-Bissingen**  
+Travel Coordinator & Board Member (since 12/2021)  
+Youth Chairperson (2017–2021)  
+Secretary (2014–2017)
 
-![TheGlorySaint GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGlorySaint&count_private=true&show_icons=true)
+## Languages
 
----
+- 🇩🇪 German — Native
+- 🇬🇧 English — Fluent (spoken and written)
+- 🇪🇸 Spanish — Basic
